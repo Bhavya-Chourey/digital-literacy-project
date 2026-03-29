@@ -12,7 +12,7 @@
 | Platform | Profile Link | Purpose |
 |---|---|---|
 | GitHub | [Bhavya-Chourey](https://github.com/Bhavya-Chourey/Bhavya-Chourey) | Code hosting, version control, project showcase |
-| LinkedIn | [Bhavya Chourey](https://www.linkedin.com/in/bhavya-chourey) | Professional networking, internship applications |
+| LinkedIn | [Bhavya Chourey](https://www.linkedin.com/in/bhavya-chourey-56aa92250/) | Professional networking, internship applications |
 | Kaggle | [bhavyachourey](https://www.kaggle.com/bhavyachourey) | Data science competitions, AI portfolio building |
 
 ---
