@@ -1,10 +1,10 @@
-# 📚 CSE0001 – Digital Literacy Portfolio
+#  CSE0001 – Digital Literacy Portfolio
 
 > **Student Digital Ambassador Project** | VIT Bhopal University | VITyarthi E-Learning Platform
 
 ---
 
-## 👤 Student Details
+##  Student Details
 
 | Field | Details |
 |-------|---------|
@@ -17,7 +17,7 @@
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 digital-literacy-project/
@@ -54,9 +54,9 @@ digital-literacy-project/
 
 ---
 
-## 📋 Module Summaries
+## Module Summaries
 
-### 🟦 Task 1 – Digital Literacy Awareness Infographic `Module 1 | 20 marks`
+###  Task 1 – Digital Literacy Awareness Infographic `Module 1 | 20 marks`
 
 Created a one-page visual infographic titled **"Digital Literacy"** using **Canva**, designed for first-year batchmates under the Student Digital Ambassador Initiative (Batch 2025).
 
@@ -69,21 +69,21 @@ Created a one-page visual infographic titled **"Digital Literacy"** using **Canv
 
 **Did You Know?** 92% of jobs require digital skills · 77% of recruiters Google candidates · 1 in 3 people fall victim to phishing
 
-📎 **Infographic:**
+ **Infographic:**
 
 ![Digital Literacy Infographic](task-1-presentation/digital_literacy_infographic.png)
 
 ---
 
-### 🟩 Task 2 – Student Digital Portfolio `Module 2 | 20 marks`
+###  Task 2 – Student Digital Portfolio `Module 2 | 20 marks`
 
 Set up professional profiles on **three platforms** with education details, goals, and bio.
 
 | Platform | Profile | Purpose |
 |----------|---------|---------|
-| 🐙 **GitHub** | [@Bhavya-Chourey](https://github.com/Bhavya-Chourey) | Code hosting, version control, AI project portfolio |
-| 💼 **LinkedIn** | [Bhavya Chourey](https://www.linkedin.com/in/bhavya-chourey) | Professional networking, internship search |
-| 📊 **Kaggle** | [bhavyachourey](https://www.kaggle.com/bhavyachourey) | Data science competitions, ML/AI practice |
+|  **GitHub** | [@Bhavya-Chourey](https://github.com/Bhavya-Chourey) | Code hosting, version control, AI project portfolio |
+|  **LinkedIn** | [Bhavya Chourey](https://www.linkedin.com/in/bhavya-chourey) | Professional networking, internship search |
+|  **Kaggle** | [bhavyachourey](https://www.kaggle.com/bhavyachourey) | Data science competitions, ML/AI practice |
 
 **GitHub Profile README highlights:**
 - Degree: Integrated M.Tech in Artificial Intelligence | VIT Bhopal University | First Year / 2025–30
@@ -95,30 +95,30 @@ Set up professional profiles on **three platforms** with education details, goal
 - HSC [PCM] – Govt. Excellence Higher Secondary School | Grade: 90.2%
 - SSC – Govt. Excellence Higher Secondary School | Grade: 88.6%
 
-📁 Screenshots in `task-2-portfolio/`
+ Screenshots in `task-2-portfolio/`
 
 ---
 
-### 🟨 Task 3 – Coding & Collaboration Platforms `Module 3 | 20 marks`
+###  Task 3 – Coding & Collaboration Platforms `Module 3 | 20 marks`
 
 #### Part A – HackerRank (Coding Practice)
 - **Challenge:** Solve Me First (Algorithms → Warmup)
-- **Result:** 1.00 / 1 point scored ✅
+- **Result:** 1.00 / 1 point scored 
 - **Category:** Easy | Submitted by 5,029,500+ users
 - **Task:** Implemented `solveMeFirst` function to return sum of two integers
 
 #### Part B – Google Forms (Collaboration)
-- **Form:** Digital Literacy Awareness Quiz (5 questions, Published ✅)
+- **Form:** Digital Literacy Awareness Quiz (5 questions, Published )
 - **Includes:** Multiple choice, checkboxes, linear scale, and short answer questions
 - **Responses collected:** 5 real responses from batchmates (as of 29 March 2026)
 
 🔗 **[Take the Digital Literacy Awareness Quiz →](https://forms.gle/kQnufhYCGBMkd9HA8)**
 
-📁 Screenshots in `task-3-platforms/`
+ Screenshots in `task-3-platforms/`
 
 ---
 
-### 🟧 Task 4 – Professional Email & Etiquette Guide `Module 4 | 20 marks`
+###  Task 4 – Professional Email & Etiquette Guide `Module 4 | 20 marks`
 
 #### Part A – Email Drafts (`email-drafts.docx`)
 
@@ -145,7 +145,7 @@ Both emails follow all professional conventions: clear subject line · formal sa
 
 ---
 
-### 🟥 Task 5 – Cybercrime Awareness Case Study & Prevention Guide `Module 5 | 20 marks`
+###  Task 5 – Cybercrime Awareness Case Study & Prevention Guide `Module 5 | 20 marks`
 
 #### Part A – Case Study: UPI / Online Payment Fraud (`casestudy.md`)
 
@@ -178,22 +178,22 @@ A realistic fictional scenario of a first-year college student in Madhya Pradesh
 
 | Resource | Link |
 |----------|------|
-| 📝 Digital Literacy Quiz | [forms.gle/kQnufhYCGBMkd9HA8](https://forms.gle/kQnufhYCGBMkd9HA8) |
-| 🐙 GitHub Profile | [github.com/Bhavya-Chourey](https://github.com/Bhavya-Chourey) |
-| 💼 LinkedIn Profile | [linkedin.com/in/bhavya-chourey](https://www.linkedin.com/in/bhavya-chourey-56aa92250/) |
-| 📊 Kaggle Profile | [kaggle.com/bhavyachourey](https://www.kaggle.com/bhavyachourey) |
-| 🏅 HackerRank | [hackerrank.com](https://www.hackerrank.com) |
-| 🔒 Cybercrime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) \| Helpline: **1930** |
+|  Digital Literacy Quiz | [forms.gle/kQnufhYCGBMkd9HA8](https://forms.gle/kQnufhYCGBMkd9HA8) |
+|  GitHub Profile | [github.com/Bhavya-Chourey](https://github.com/Bhavya-Chourey) |
+|  LinkedIn Profile | [linkedin.com/in/bhavya-chourey](https://www.linkedin.com/in/bhavya-chourey-56aa92250/) |
+|  Kaggle Profile | [kaggle.com/bhavyachourey](https://www.kaggle.com/bhavyachourey) |
+|  HackerRank | [hackerrank.com](https://www.hackerrank.com) |
+|  Cybercrime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) \| Helpline: **1930** |
 
 ---
 
-## 🛠️ Tools & Platforms Used
+##  Tools & Platforms Used
 
 `Canva` `GitHub` `LinkedIn` `Kaggle` `HackerRank` `Google Forms` `Google Sheets` `Microsoft Word`
 
 ---
 
-## 📊 Marking Scheme
+##  Marking Scheme
 
 | Component | Marks |
 |-----------|-------|
@@ -207,7 +207,7 @@ A realistic fictional scenario of a first-year college student in Madhya Pradesh
 
 ---
 
-## ⚠️ Academic Integrity
+##  Academic Integrity
 
 All written reflections are in my own words. AI tools (Claude) were used to understand concepts and assist with structure, but all content reflects my own understanding and experience. External sources are cited in the project report.
 
