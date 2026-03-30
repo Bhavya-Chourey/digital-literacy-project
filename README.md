@@ -25,7 +25,7 @@ digital-literacy-project/
 ├── README.md                                        ← You are here
 │
 ├── report/
-│   └── Project_Report.docx                          ← Full written report (all 5 tasks)
+│   └── Project_Report.md                            ← Full written report (all 5 tasks)
 │
 ├── task-1-presentation/
 │   ├── digital_literacy_infographic.png             ← Canva infographic
@@ -35,21 +35,24 @@ digital-literacy-project/
 │   ├── github_profile.png                           ← GitHub profile screenshot
 │   ├── linkedin_profile.png                         ← LinkedIn education section screenshot
 │   ├── kaggle_profile.png                           ← Kaggle profile screenshot
-│   └── reflection.md                                ← Platform notes & reflection
+│   └── task2_report.md                              ← Platform notes & reflection
 │
 ├── task-3-platforms/
 │   ├── hackerrank_challenge.png                     ← Solve Me First completion screenshot
 │   ├── google_form.png                              ← Digital Literacy Quiz form screenshot
 │   ├── google_sheet_responses.png                   ← Linked Google Sheet with 5 responses
-│   └── notes.md                                     ← Platform notes
+│   └── task3_report.md                              ← Platform notes
 │
 ├── task-4-email-etiquette/
-│   ├── email-drafts.docx                            ← Two professional email drafts
-│   └── social-media-checklist.md                   ← Social media Do's & Don'ts
+│   ├── professional-emails.md                       ← Two professional email drafts
+│   ├── social-media-checklist.md                    ← Social media Do's & Don'ts
+│   └── task4_report.md                              ← Platform notes
 │
 └── task-5-cybercrime/
     ├── casestudy.md                                 ← UPI Fraud case study
-    └── prevention-checklist.md                     ← Stay Safe Online checklist
+    ├── prevention-checklist.md                      ← Stay Safe Online checklist
+    └── task5_report.md                              ← Platform notes
+                      
 ```
 
 ---
