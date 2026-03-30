@@ -194,21 +194,6 @@ A realistic fictional scenario of a first-year college student in Madhya Pradesh
 
 `Canva` `GitHub` `LinkedIn` `Kaggle` `HackerRank` `Google Forms` `Google Sheets` `Microsoft Word`
 
----
-
-##  Marking Scheme
-
-| Component | Marks |
-|-----------|-------|
-| Task 1 – Infographic | 20 |
-| Task 2 – Digital Portfolio | 20 |
-| Task 3 – Platforms | 20 |
-| Task 4 – Email Etiquette | 20 |
-| Task 5 – Cybercrime | 20 |
-| Repository Structure (Bonus) | +5 |
-| **Total** | **100** |
-
----
 
 ##  Academic Integrity
 
